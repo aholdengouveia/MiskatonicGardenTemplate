@@ -1,0 +1,23 @@
+
+a:link {
+  color: #5D3FD3;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #51414F;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #5D3FD3;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: #483248;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
